@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
         <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
-        <role display_value="github_sn" name="github_sn">3b0c80b4dba16c50d468e3e2ca9619a8</role>
+        <role display_value="x_enps_github_sn.github_sn" name="x_enps_github_sn.github_sn">3b0c80b4dba16c50d468e3e2ca9619a8</role>
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>shahid.i@enableps.com</sys_created_by>
         <sys_created_on>2021-01-04 01:43:05</sys_created_on>
