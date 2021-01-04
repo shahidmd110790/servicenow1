@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (GitHUb)">531c04b4dba16c50d468e3e2ca96195d</button>
+        <item_parameter display_value="GitHUb sys_id">531c04b4dba16c50d468e3e2ca961951</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>shahid.i@enableps.com</sys_created_by>
+        <sys_created_on>2021-01-04 01:43:19</sys_created_on>
+        <sys_id>5b1c04b4dba16c50d468e3e2ca961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>531c04b4dba16c50d468e3e2ca961951</sys_name>
+        <sys_package display_value="GitHub-SN" source="x_enps_github_sn">4c6bc074dba16c50d468e3e2ca9619be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub-SN">4c6bc074dba16c50d468e3e2ca9619be</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_5b1c04b4dba16c50d468e3e2ca961975</sys_update_name>
+        <sys_updated_by>shahid.i@enableps.com</sys_updated_by>
+        <sys_updated_on>2021-01-04 01:43:19</sys_updated_on>
+        <ui_parameter display_value="Sys ID">531c04b4dba16c50d468e3e2ca96195e</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
